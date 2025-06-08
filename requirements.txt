@@ -1,4 +1,9 @@
 roboflow 
 supervision 
-flash-attn
 ultralytics
+python-dotenv
+opencv-python
+numpy
+imutils
+torch
+pillow

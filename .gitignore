@@ -1,2 +1,6 @@
 venv/
 .env
+People-Detection-1/
+yolov8n.pt
+runs/
+outputs/
